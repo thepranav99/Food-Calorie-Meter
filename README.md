@@ -1,5 +1,5 @@
 # Food Calorie Meter
-A deep Learning approach<hr>
+A Deep Learning approach<hr>
 
 <h4>Problem Statement:</h4>
 We present a system which can recognize the contents of your meal from a single image, and then predict its calories. The simplest version assumes that the user(student) is eating at the college canteen for which we know the menu. In this case, we can collect images ofﬂine to train a multi-label classiﬁer  using a CNN-based classiﬁer.
